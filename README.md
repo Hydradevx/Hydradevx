@@ -56,7 +56,7 @@
 ---
 
 ## Repo Comparison:
-[![Star History Chart](https://api.star-history.com/svg?repos=Hydradevx/Hydrion-S3LFB0T,Hydradevx/Hydrion-OwO-Farmbot&type=Date)](https://star-history.com/#Hydradevx/Hydrion-S3LFB0T&Hydradevx/Hydrion-OwO-Farmbot&Hydradevx/Hydrion-Tools&Hydradevx/Hydrion-API&Date)  
+[![Star History Chart](https://api.star-history.com/svg?repos=Hydradevx/Hydrion-S3LFB0T,Hydradevx/Hydrion-OwO-Farmbot&type=Date)] 
 
 ---
 
