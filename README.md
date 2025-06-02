@@ -1,4 +1,4 @@
-# 🎨 Hydradevx | Dev for Hire  
+# Hydradevx | Dev for Hire  
 
 🚀 **Working on Hydrion**  
 🔹 Passionate about coding, automation & APIs  
