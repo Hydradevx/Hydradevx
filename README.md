@@ -64,7 +64,7 @@ const Hydradevx = {
 ## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFA2&center=false&vCenter=false&width=200&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=onedark&hide_border=false height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=onedark&hide_border=false" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydradevx&theme=onedark&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydradevx&layout=compact&theme=onedark&hide_border=false" height="160"/>
 </p>
