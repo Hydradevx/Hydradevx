@@ -5,14 +5,6 @@
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
 
-<p align="center">
-  🚀 Building <strong>Hydrion</strong> – feature-rich Discord tools<br>
-  💡 Passionate about bots, automation, fullstack apps & terminal wizardry<br>
-  🎮 Join my community → <a href="https://discord.gg/6Tufbvnebj"><code>discord.gg/6Tufbvnebj</code></a>
-</p>
-
----
-
 ### 📡 Discord Presence
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1251647487081709682?theme=dark&bg=1e1e2e&borderRadius=20px&idleMessage=Probably+coding...&animated=true" alt="Discord Presence">
@@ -58,8 +50,8 @@ const Hydradevx = {
 
 ## 🌟 Featured Projects
 
-* 🔹 [**Hydrion-S3LFB0T**](https://github.com/Hydradevx/Hydrion-S3LFB0T) → Next-gen Discord selfbot framework
-* 🔹 [**Hydrion-OwO-Farmbot**](https://github.com/Hydradevx/Hydrion-OwO-Farmbot) → Automation for OwO bot grinding
+* 🔹 [**Hypr**](https://github.com/Hydradevx/Hypr) → Next-gen Discord selfbot 
+* 🔹 [**Hydradevx-dotfiles**](https://github.com/Hydradevx/dotfiles) → My personal dotfiles
 * 🔹 More in the works… stay tuned 👀
 
 ---
