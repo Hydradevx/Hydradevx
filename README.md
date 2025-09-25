@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=89b4fa&center=true&vCenter=true&width=600&lines=Hey+I'm+Hydradevx!;Crafting+Hydrion+Tools+%F0%9F%9A%80;Discord+Bot+Dev+%7C+Fullstack+Builder;Automation+%7C+APIs+%7C+Cross-Platform+Tools" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Maple+Mono+NF&weight=600&size=24&duration=4000&pause=1000&color=89b4fa&center=true&vCenter=true&width=600&lines=Hey+I'm+Hydradevx!;Crafting+Hydrion+Tools+%F0%9F%9A%80;Discord+Bot+Dev+%7C+Fullstack+Builder;Automation+%7C+APIs+%7C+Cross-Platform+Tools" alt="Typing intro" />
 </p>
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
@@ -33,6 +33,7 @@ const Hydradevx = {
   <img src="https://img.shields.io/badge/Python-a6e3a1?style=for-the-badge&logo=python&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/C++-f38ba8?style=for-the-badge&logo=c%2B%2B&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/Lua-cba6f7?style=for-the-badge&logo=lua&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/QML-f9e2af?style=for-the-badge&logo=qt&logoColor=1e1e2e"/>
 </p>
 
 ### ⚙️ Tools & Frameworks
@@ -40,19 +41,29 @@ const Hydradevx = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=node.js&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/React-89b4fa?style=for-the-badge&logo=react&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Svelte-f38ba8?style=for-the-badge&logo=svelte&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Quickshell-cba6f7?style=for-the-badge&logo=qt&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Render-94e2d5?style=for-the-badge&logo=render&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/MongoDB-a6e3a1?style=for-the-badge&logo=mongodb&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/TailwindCSS-94e2d5?style=for-the-badge&logo=tailwind-css&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/Electron-89dceb?style=for-the-badge&logo=electron&logoColor=1e1e2e"/>
   <img src="https://img.shields.io/badge/Flask-f2cdcd?style=for-the-badge&logo=flask&logoColor=1e1e2e"/>
 </p>
 
+### 💻 Software & OS
+
+<p>
+  <img src="https://img.shields.io/badge/VSCode-89b4fa?style=for-the-badge&logo=visualstudiocode&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Neovim-a6e3a1?style=for-the-badge&logo=neovim&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-89dceb?style=for-the-badge&logo=arch-linux&logoColor=1e1e2e"/>
+</p>
+
 ---
 
 ## 🌟 Featured Projects
 
-* 🔹 [**Hypr**](https://github.com/Hydradevx/Hypr) → Next-gen Discord selfbot 
-* 🔹 [**Hydradevx-dotfiles**](https://github.com/Hydradevx/dotfiles) → My personal dotfiles
-* 🔹 More in the works… stay tuned 👀
+[![Hypr](https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=hypr)](https://github.com/hydradevx/hypr)
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=dotfiles)](https://github.com/hydradevx/dotfiles)
 
 ---
 
@@ -61,6 +72,8 @@ const Hydradevx = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydradevx&theme=catppuccin-mocha&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydradevx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 </p>
 
 ---
