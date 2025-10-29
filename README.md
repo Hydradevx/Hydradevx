@@ -72,7 +72,7 @@ const Hydradevx = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydradevx&theme=catppuccin-mocha&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydradevx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydradevx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> 
 
 </p>
 
