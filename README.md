@@ -1,11 +1,11 @@
-<!-- Banner -->
+
+<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Maple+Mono+NF&weight=600&size=24&duration=4000&pause=1000&color=89b4fa&center=true&vCenter=true&width=600&lines=Hey+I'm+Hydradevx!;Crafting+Hydrion+Tools+%F0%9F%9A%80;Discord+Bot+Dev+%7C+Fullstack+Builder;Automation+%7C+APIs+%7C+Cross-Platform+Tools" alt="Typing intro" />
 </p>
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
 
-### 📡 Discord Presence
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1251647487081709682?theme=dark&bg=1e1e2e&borderRadius=20px&idleMessage=Probably+coding...&animated=true" alt="Discord Presence">
 </p>
@@ -62,19 +62,34 @@ const Hydradevx = {
 
 ## 🌟 Featured Projects
 
-[![Hypr](https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=hypr)](https://github.com/hydradevx/hypr)
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=dotfiles)](https://github.com/hydradevx/dotfiles)
+<div align="center">
+  <a href="https://github.com/hydradevx/hypr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=hypr&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/hydradevx/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hydradevx&repo=dotfiles&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydradevx&theme=catppuccin-mocha&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydradevx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=default&hide_border=true" height="160">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hydradevx&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160">
+  </picture>
 
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Hydradevx&theme=catppuccin-mocha&hide_border=true" height="160">
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=Hydradevx&theme=default&hide_border=true" height="160">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Hydradevx&theme=catppuccin-mocha&hide_border=true" height="160">
+  </picture>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydradevx&theme=catppuccin_mocha&hide_border=true&layout=compact" height="160">
+</div>
 
 ---
 
@@ -83,6 +98,18 @@ const Hydradevx = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hydradevx&theme=catppuccin&no-frame=true&margin-w=10"/>
 </p>
+
+---
+
+## 🕹️ Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hydradevx&radius=20&theme=github-dark&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hydradevx&radius=20&theme=github-light&area=true&hide_border=true">
+    <img alt="activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hydradevx&radius=20&theme=github-dark&area=true&hide_border=true" height="300">
+  </picture>
+</div>
 
 ---
 
